@@ -10,3 +10,4 @@ Git spurningar og Svör
 	git log er notað til þess að sjá commits sem einhver er búin að vera að gera í verkefni
 	git status er notað til þess að sjá hvaða gögn hafa verið breytt eða búin til eða eytt sem eiga eftir að vera Commituð
 	git diff er notað til þess að sýna hvað er búið að breyta en ekki committa
+	git checkout er notað til þess að flakka á milli brancha
