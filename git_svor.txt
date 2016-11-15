@@ -24,3 +24,5 @@ Git spurningar og Svör
 	Repository er mikilvægasti parturinn við git og það er þar sem þú geymir gögnin í gitinu
 	Working directory er þar sem gögnin sem þú tekur úr git til að nota eða breyta eru sett.
 	Staging area er file sem er notað til að geyma upplýsingar um hvað fer í næsta commitið
+7. Hvenær væri sniðugt að nota branches?
+	Það er sniðugt ef maður ætlar að prófa einhvað nýtt en vill ekki gera nein vandamál við verkefnið sem þú ert búin að vera að gera.
