@@ -15,3 +15,4 @@ Git spurningar og Svör
 	git diff er notað til þess að sýna hvað er búið að breyta en ekki committa
 	git diff --staged er notað til þess að sýna hvað er búið að að adda með git add en ekki búið að committa
 	git diff er notað til þess að sjá muninn á commit1 og commit2
+	Version Control er notað til þess að það sé hægt að fara aftur í gamalt version af verkefninu t.d gamalt version af vefsíðu
