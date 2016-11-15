@@ -1,1 +1,3 @@
 Git spurningar og Svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	CD er notað til þess að skipta um directory
