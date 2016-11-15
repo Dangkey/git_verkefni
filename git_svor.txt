@@ -20,3 +20,7 @@ Git spurningar og Svör
 	Helstu kostirnir við git er að það er auðvelt að vinna með öðrum
 5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	Þú ættir að committa í hvert skipti sem þú breytir einhverju mikilvægu og í hvert skipti sem þú ert hættur að vinna og veist að það eru engin vandamál við það sem þú varst að bæta við
+6.Hvernig eru Working directory, Staging area og Repository frábrugðin í GIT, til hvers eru þau?
+	Repository er mikilvægasti parturinn við git og það er þar sem þú geymir gögnin í gitinu
+	Working directory er þar sem gögnin sem þú tekur úr git til að nota eða breyta eru sett.
+	Staging area er file sem er notað til að geyma upplýsingar um hvað fer í næsta commitið
