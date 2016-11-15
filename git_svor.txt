@@ -13,3 +13,4 @@ Git spurningar og Svör
 	git checkout er notað til þess að flakka á milli brancha
 3. Hver er munurinn á eftirfarandi git skipunum:
 	git diff er notað til þess að sýna hvað er búið að breyta en ekki committa
+	git diff --staged er notað til þess að sýna hvað er búið að að adda með git add en ekki búið að committa
