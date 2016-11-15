@@ -15,5 +15,8 @@ Git spurningar og Svör
 	git diff er notað til þess að sýna hvað er búið að breyta en ekki committa
 	git diff --staged er notað til þess að sýna hvað er búið að að adda með git add en ekki búið að committa
 	git diff er notað til þess að sjá muninn á commit1 og commit2
+4. Hvað er version control, hverjir eru helstu kostir við að nota GIT?
 	Version Control er notað til þess að það sé hægt að fara aftur í gamalt version af verkefninu t.d gamalt version af vefsíðu og til þess að sjá hver gæti hafað breytt einhverju sem gæti hafa búið til bug og fleira,
 	Helstu kostirnir við git er að það er auðvelt að vinna með öðrum
+5. Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Þú ættir að committa í hvert skipti sem þú breytir einhverju mikilvægu og í hvert skipti sem þú ert hættur að vinna og veist að það eru engin vandamál við það sem þú varst að bæta við
