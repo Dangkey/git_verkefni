@@ -7,3 +7,4 @@ Git spurningar og Svör
 	mkdir er notað til að búa til nýtt directory ef það er ekki til
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git-clone er notað til þess að að afrita repository í nýtt directory
+	git log er notað til þess að sjá commits sem einhver er búin að vera að gera í verkefni
