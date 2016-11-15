@@ -5,3 +5,5 @@ Git spurningar og Svör
 	ls sýnir gögn og directories í lista
 	pwd er notað til þess að skrifa út hvaða directory þú ert í
 	mkdir er notað til að búa til nýtt directory ef það er ekki til
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git-clone er notað til þess að að afrita repository í nýtt directory
